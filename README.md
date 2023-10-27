@@ -23,15 +23,33 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Software Engineer, focused on Developig Backend and NLP with a huge love for Python, PHP, Javascript, API Development, Automation, and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I'm Erfan (Karim), a Software Engineer with a passion for backend development and NLP (Natural Language Processing). I specialize in Python, PHP, Javascript, API Development, Automation, and System Architecture. Currently, **I'm actively seeking new work and employment opportunities, both remote and for relocation**.
 
-I love to read books, listen to music, take a walk, and watch movies.
+### About Me
+In addition to my software engineering skills, I have a few other interests:
 
-- 🌱 I’m currently learning more about Artificial Intelligence. Also study system design. I believe that everyday is a learning opportunity.
-- 🧳 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Python, PHP, Javascript, WordPress, NLP, System Design, and API development.
-- 📫 You can email me at - [erfan226@gmail.com]
-- :wrench: Tools - VSCode, PyCharm, Obsidian, Markdown Editors, Spotify, Postman, Mamp, Docker and Terminal (Zsh) on Mac.
+- 📚 I love reading books.
+- 🎶 I enjoy listening to music.
+- 🚶‍♂️ I like taking walks.
+- 📺 I'm a fan of watching TV shows.
+
+### What I'm Currently Up To
+
+- 🌱 I'm expanding my knowledge in Artificial Intelligence.
+- 📖 I'm also diving into the world of system design.
+
+### My Tools of Choice
+
+I rely on a set of tools to enhance my productivity:
+
+- 💻 **IDEs**: VSCode, PyCharm
+- 🗒️ **Note-Taking**: Obsidian, Markdown Editors
+- 🎵 **Music**: Spotify
+- 📦 **API Testing**: Postman
+- 🚀 **Local Development**: Mamp, Docker
+- 🖥️ **Terminal**: Zsh on Mac
+
+You can email me at - [erfan226@gmail.com]. Let's connect and collaborate on some exciting projects!
 
 ### Numbers
 ![Erfan's Stats](https://github-readme-stats.vercel.app/api?username=erfan226&theme=dark&show_icons=true&hide_border=true&count_private=true)
